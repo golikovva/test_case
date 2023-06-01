@@ -4,6 +4,6 @@
 
 [comment]: <> (<tr>)
 
-![plot](./docker_project/readme_illustrations/1.jpg)
+![plot](./readme_illustrations/1.jpg)
 
 [comment]: <> (</tr>)
