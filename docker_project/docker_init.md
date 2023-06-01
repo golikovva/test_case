@@ -52,7 +52,7 @@
 
 [comment]: <> (<tr>)
 
-![plot](./readme_illustrations/6.jpg)
+![plot](./readme_illustrations/7.jpg)
 
 [comment]: <> (</tr>)
 
