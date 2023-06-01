@@ -1,9 +1,9 @@
+# Пошаговое описание запуска docker контейнера и скриптов в нём
 
-#Пошаговое описание запуска docker контейнера и скриптов в нём
-
+1) Переходим в директорию с docker проектом
 
 [comment]: <> (<tr>)
 
-[comment]: <> (<p align="center"> <img height="360" src="./docker_project/1.jpg"></p>)
+![plot](./docker_project/readme_illustrations/1.jpg)
 
 [comment]: <> (</tr>)
