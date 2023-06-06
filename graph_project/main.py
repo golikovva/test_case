@@ -152,6 +152,6 @@ if __name__ == '__main__':
     # проверка устойчивости алгоритма поиска независимых множеств на нескольких случайных графах
     for i in range(10):
         g = Graph(generate='random')
-        g.max_ivs()
+        print(g.max_ivs())
         g.draw_graph()
         plt.savefig(f'./images/graph_{i}')
